@@ -23,6 +23,9 @@ body{
 .cardPadding{
     padding: 15px;
 }
+.imgPadding{
+    padding: 25px;
+}
 .imgHeight1{
     height: 188px;
 }
