@@ -26,20 +26,6 @@ body{
 .imgHeight1{
     height: 188px;
 }
-.imgHeight2{
-     margin-top: 65px;
-}
-.imgHeight3{
-    height: 75px;
-    width: 75px;
-    margin-top: 65px;
-    
-}
-.imgHeight4{
-    height: 75px;
-    width: 75px;
-    margin-top: 65px;
-}
 
 .round-icon{
     border-radius: 50%;
