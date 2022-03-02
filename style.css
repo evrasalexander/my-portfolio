@@ -15,10 +15,13 @@ body{
     margin-top: 10px;
 }
 .container2{
-    background-color: var(--color-primary);
-    margin-top: 10px;
-    margin-left: 505px;
+    background-color: var(--color-primary);   
 }
+
+.div-row{
+    justify-content: center;
+}
+
 .cardBackground1{
     background-color: #746f6f;
 }
